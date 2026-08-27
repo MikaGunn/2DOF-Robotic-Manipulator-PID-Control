@@ -54,7 +54,7 @@ Target End-Effector Position (x, y)
 ```
 
 <p align="center">
-  <img src="docs/images/simulink-control.png" alt="Simulink control architecture" width="850">
+  <img src="docs/images/13.5.png" alt="Simulink control architecture" width="850">
 </p>
 
 ## Mechanical Design
@@ -69,7 +69,7 @@ Two custom parts designed for the system include:
 The complete CAD assembly is included as a STEP file in the `CAD/` directory.
 
 <p align="center">
-  <img src="docs/images/cad-assembly.png" alt="CAD assembly" width="800">
+  <img src="docs/images/11.png" alt="CAD assembly" width="800">
 </p>
 
 ## Electronics
@@ -101,7 +101,7 @@ The tuned controller values used in the project were:
 The Arduino implementation updates the PID calculation every **50 ms**, includes encoder interrupt handling, output limiting and a minimum PWM compensation to overcome motor deadband/static friction.
 
 <p align="center">
-  <img src="docs/images/pid-results.png" alt="PID response result" width="720">
+  <img src="docs/images/14.2.png" alt="PID response result" width="720">
 </p>
 
 ## Kinematics
