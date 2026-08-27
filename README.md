@@ -186,7 +186,7 @@ The project highlighted several practical robotics challenges:
 
 Possible extensions include:
 
-- Dual-sided axle support to improve rigidity
+- Dual sided axle support to improve rigidity
 - Aluminium or carbon fibre links to reduce flex and vibration
 - Servo actuated gripper
 - Improved cable management
