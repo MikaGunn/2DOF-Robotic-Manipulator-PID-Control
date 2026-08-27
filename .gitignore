@@ -1,0 +1,28 @@
+# MATLAB / Simulink generated files
+slprj/
+*.slxc
+*.autosave
+*.asv
+*.m~
+*.slx.r20*
+codegen/
+work/
+
+# Arduino build output
+*.hex
+*.elf
+*.eep
+*.bin
+
+# CAD temporary / backup files
+*.bak
+*.tmp
+~$*
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
