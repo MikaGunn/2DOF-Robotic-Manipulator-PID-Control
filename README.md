@@ -5,7 +5,7 @@ A complete mechatronics project covering the design, simulation, fabrication, el
 The system combines mechanical CAD design, 3D printed components, Arduino based motor control, encoder feedback, inverse kinematics and PID position control developed in MATLAB/Simulink.
 
 <p align="center">
-  <img src="docs/images/robot-overview.png" alt="2-DOF robotic manipulator" width="520">
+  <img src="docs/images/5.png" alt="2-DOF robotic manipulator" width="520">
 </p>
 
 ## Project Overview
