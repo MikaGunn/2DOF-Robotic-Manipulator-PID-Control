@@ -199,11 +199,3 @@ Possible extensions include:
 ## Skills Demonstrated
 
 `Robotics` · `Mechatronics` · `Control Systems` · `PID Control` · `Arduino` · `MATLAB` · `Simulink` · `CAD` · `SolidWorks` · `Onshape` · `3D Printing` · `Forward Kinematics` · `Inverse Kinematics` · `Encoder Feedback` · `PWM Motor Control`
-
-## Portfolio Summary
-
-Designed and developed a 2-DOF robotic manipulator integrating CAD and 3D printed mechanical components, Arduino controlled EMG30 motors, encoder feedback, inverse kinematics and closed loop PID position control using MATLAB/Simulink and Arduino.
-
-## Note
-
-The original university report is intentionally not included in this repository because it contains personal/student information. The repository contains only the technical project assets needed to demonstrate the work.
