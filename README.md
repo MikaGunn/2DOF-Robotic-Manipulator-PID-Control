@@ -128,6 +128,7 @@ Inverse kinematics is used to calculate the two required joint angles for a desi
 │   └── Simulink_PID_controller.slx
 ├── docs/
 │   └── images
+│   └── 2DOF Robotic Manipulator Report
 ├── .gitignore
 └── README.md
 ```
